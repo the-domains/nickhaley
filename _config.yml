@@ -1,0 +1,23 @@
+name: nickhaley
+favicon: null
+layout_spectrum: 0.808084431104362
+typography_spectrum: 0.3425772476475686
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9434492748696357
+  lightness: 0.60610276972875
+  saturation: 0.29797091986984015
+  rhythmicContrast: 0.0941217087674886
+purpose: []
