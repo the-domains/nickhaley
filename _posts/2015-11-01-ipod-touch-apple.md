@@ -3,7 +3,7 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - vimeo
   - kkquzpqdzb0
@@ -16,8 +16,8 @@ keywords:
   - stream
   - youtube
 description: ''
-datePublished: '2015-11-01T18:25:36.866Z'
-dateModified: '2015-11-01T18:25:27.060Z'
+datePublished: '2015-11-01T18:26:18.309Z'
+dateModified: '2015-11-01T18:26:12.449Z'
 author:
   - name: Nick Haley
     url: 'http://vimeo.com/nickhaley'
