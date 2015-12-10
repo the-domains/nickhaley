@@ -1,41 +1,41 @@
-name: nickhaley
-favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.27196
 title: nick haley  •  director
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
 color:
+  saturation: 1
+  brandStrength: 0
+  rhythmicContrast: 1
   brandColors:
     - '#FD7630'
     - '#21201D'
     - '#7F402F'
     - '#FFA488'
     - '#A3A2AC'
-  brandStrength: 0
   lightness: 1
-  saturation: 1
-  rhythmicContrast: 1
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: nickhaley
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.27196
+layout_spectrum: 0
