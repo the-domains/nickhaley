@@ -1,7 +1,7 @@
 name: nickhaley
 favicon: null
-layout_spectrum: 0.21931
-typography_spectrum: 0.63941
+layout_spectrum: 0
+typography_spectrum: 0.27196
 title: nick haley  •  director
 collections:
   - index:
@@ -36,6 +36,6 @@ color:
     - '#A3A2AC'
   brandStrength: 0
   lightness: 1
-  saturation: 0.8125
+  saturation: 1
   rhythmicContrast: 1
 purpose: []
