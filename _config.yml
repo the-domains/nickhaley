@@ -6,23 +6,20 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 1
-  brandStrength: 0
-  rhythmicContrast: 1
-  brandColors:
-    - '#FD7630'
-    - '#21201D'
-    - '#7F402F'
-    - '#FFA488'
-    - '#A3A2AC'
+  brandStrength: 1
   lightness: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#030303'
+  rhythmicContrast: 0
 cta:
   bucket: null
   version: null
@@ -31,11 +28,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: nickhaley
 favicon: null
+name: nickhaley
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.27196
-layout_spectrum: 0
+layout_spectrum: 0.172043
